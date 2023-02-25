@@ -1,0 +1,206 @@
+h1 {
+    text-align: center;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+h3 {
+    text-align: left;
+    font-weight: bold;
+    color: crimson;
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 25px;
+    text-decoration: underline;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.colors {
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 400px;
+    width: 1000px;
+    margin: 0 auto;
+    padding-left: 10px;
+}
+
+.fonts {
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 550px;
+    width: 1000px;
+    margin: 0 auto;
+    padding-left: 10px;
+    margin-top: 15px;
+}
+
+.text-styles {
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 500px;
+    width: 1000px;
+    margin: 0 auto;
+    padding-left: 10px;
+    margin-top: 15px;
+}
+.denim-blue {
+    text-align: center;
+    box-sizing: border-box;
+    width: 300px;
+    height: 100px;
+    line-height: 30px;
+    background-color: rgb(53, 34, 176);
+    display: inline-block;
+    color: white;
+}
+
+.forest-green {
+    text-align: center;
+    box-sizing: border-box;
+    width: 400px;
+    height: 100px;
+    line-height: 30px;
+    background-color: rgb(38, 180, 57);
+    display: inline-block;
+}
+
+.tall-poppy {
+    text-align: center;
+    box-sizing: border-box;
+    width: 275px;   
+    height: 100px;
+    line-height: 30px; 
+    background-color: rgb(180, 57, 38);
+    display: inline-block;
+    color: white;
+}
+
+.unmellow-yellow {
+    text-align: center;
+    box-sizing: border-box;
+    width: 300px;
+    height: 100px;
+    line-height: 30px;
+    background-color: rgb(255, 255, 102);
+    display: inline-block;
+    color: black;
+}
+
+.blush-pink {
+    text-align: center;
+    box-sizing: border-box;
+    width: 150px;
+    height: 100px;
+    line-height: 30px;
+    background-color: rgb(255, 133, 255);
+    display: inline-block;
+}
+
+.smashed-pumpkin {
+    text-align: center;
+    box-sizing: border-box;
+    width: 300px;
+    height: 100px;
+    line-height: 30px;
+    background-color: rgb(253, 111, 59);
+    display: inline-block;
+}
+
+.onyx {
+    text-align: center;
+    box-sizing: border-box;
+    width: 175px;
+    height: 100px;
+    line-height: 30px;
+    background-color: rgb(49, 51, 55);
+    display: inline-block;
+    color: white;
+}
+
+.inline-block {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+.one {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;}
+
+.two {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.three {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.four {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+}
+
+.five {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.six {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+.seven {
+    font-family: 'Athiti', sans-serif;
+    font-weight: 300;
+}
+
+.eight {
+    font-family: 'Athiti', sans-serif;
+    font-weight: 400;
+}
+
+.nine {
+    font-family: 'Athiti', sans-serif;
+    font-weight: 700;
+}
+
+.ten {
+    font-family: 'Alegreya SC', serif;
+    font-weight: 400;
+}
+
+.eleven {
+    font-family: 'Alegreya SC', serif;
+    font-weight: 500;
+}
+
+.twelve {
+    font-family: 'Alegreya SC', serif;
+    font-weight: 700;
+}
+ .first {
+    font-family: 'Ahtiti', sans-serif;
+    text-align: left;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-decoration: none;
+ }
+
+ .second {
+    font-family: 'Alegreya SC', serif;
+    font-size: 25px;
+    font-weight: bold;
+    color:black;
+ }
+
+ .third {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+ }
